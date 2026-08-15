@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[46038,["/MyFinancePlus/_next/static/chunks/0m.f970-s_hw7.js"],"ViewportBoundary"]
-3:I[46038,["/MyFinancePlus/_next/static/chunks/0m.f970-s_hw7.js"],"MetadataBoundary"]
+2:I[69140,["/MyFinancePlus/_next/static/chunks/11-rxj0emj.w_.js"],"ViewportBoundary"]
+3:I[69140,["/MyFinancePlus/_next/static/chunks/11-rxj0emj.w_.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[2856,["/MyFinancePlus/_next/static/chunks/0m.f970-s_hw7.js"],"IconMark"]
-0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MyFinance+ Online"}],["$","meta","1",{"name":"description","content":"Controle de finanças pessoais online com acesso Google e dados no Firebase."}],["$","link","2",{"rel":"shortcut icon","href":"./favicon.svg"}],["$","link","3",{"rel":"icon","href":"./favicon.svg"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fQVbRyJ5ZAq8HoYJlsGNi"}
+5:I[46965,["/MyFinancePlus/_next/static/chunks/11-rxj0emj.w_.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MyFinance+ Online"}],["$","meta","1",{"name":"description","content":"Controle de finanças pessoais online com acesso Google e dados no Firebase."}],["$","link","2",{"rel":"shortcut icon","href":"./favicon.svg"}],["$","link","3",{"rel":"icon","href":"./favicon.svg"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xoUmcOLkBRIy5oPdxwwjp"}
