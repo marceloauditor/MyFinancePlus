@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,52990,o=>{o.q("/MyFinancePlus/_next/static/media/myfinance-logo.3y-2c6waq-oxl.png")}]);
