@@ -1,2 +1,2 @@
 :HL["/MyFinancePlus/_next/static/chunks/0~2ngd93m_bjg.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"TbMDCN2OKGPxd1TFVmmNX"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ubp318lrw9aTm9rrXmclm"}
