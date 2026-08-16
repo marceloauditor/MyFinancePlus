@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[6588,["/MyFinancePlus/_next/static/chunks/0l0u3_~4mfj9i.js"],"ViewportBoundary"]
-3:I[6588,["/MyFinancePlus/_next/static/chunks/0l0u3_~4mfj9i.js"],"MetadataBoundary"]
+2:I[14583,["/MyFinancePlus/_next/static/chunks/161yn7n3l1._3.js"],"ViewportBoundary"]
+3:I[14583,["/MyFinancePlus/_next/static/chunks/161yn7n3l1._3.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[42440,["/MyFinancePlus/_next/static/chunks/0l0u3_~4mfj9i.js"],"IconMark"]
-0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MyFinance+ Online"}],["$","meta","1",{"name":"description","content":"Controle de finanças pessoais online com acesso Google e dados no Firebase."}],["$","link","2",{"rel":"shortcut icon","href":"./favicon.svg"}],["$","link","3",{"rel":"icon","href":"./favicon.svg"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7-1Q85MY8QJUq41cwtAh4"}
+5:I[81216,["/MyFinancePlus/_next/static/chunks/161yn7n3l1._3.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"MyFinance+ Online"}],["$","meta","1",{"name":"description","content":"Controle de finanças pessoais online com acesso Google e dados no Firebase."}],["$","link","2",{"rel":"shortcut icon","href":"./favicon.svg"}],["$","link","3",{"rel":"icon","href":"./favicon.svg"}],["$","$L5","4",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"d1qBCdmY9IrT8msHnHXnV"}
