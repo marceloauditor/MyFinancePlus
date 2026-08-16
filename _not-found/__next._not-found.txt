@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[33250,["/MyFinancePlus/_next/static/chunks/11-rxj0emj.w_.js"],"default"]
-3:I[17148,["/MyFinancePlus/_next/static/chunks/11-rxj0emj.w_.js"],"default"]
+2:I[73139,["/MyFinancePlus/_next/static/chunks/0l0u3_~4mfj9i.js"],"default"]
+3:I[15338,["/MyFinancePlus/_next/static/chunks/0l0u3_~4mfj9i.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"xoUmcOLkBRIy5oPdxwwjp"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"7-1Q85MY8QJUq41cwtAh4"}

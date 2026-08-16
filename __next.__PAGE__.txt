@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[35631,["/MyFinancePlus/_next/static/chunks/11-rxj0emj.w_.js"],"ClientPageRoot"]
-3:I[37774,["/MyFinancePlus/_next/static/chunks/11-rxj0emj.w_.js","/MyFinancePlus/_next/static/chunks/0nxaxit6jebyu.js"],"default"]
-6:I[69140,["/MyFinancePlus/_next/static/chunks/11-rxj0emj.w_.js"],"OutletBoundary"]
+2:I[38092,["/MyFinancePlus/_next/static/chunks/0l0u3_~4mfj9i.js"],"ClientPageRoot"]
+3:I[35491,["/MyFinancePlus/_next/static/chunks/0l0u3_~4mfj9i.js","/MyFinancePlus/_next/static/chunks/014nuucw_tsxx.js"],"default"]
+6:I[6588,["/MyFinancePlus/_next/static/chunks/0l0u3_~4mfj9i.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/MyFinancePlus/_next/static/chunks/0nxaxit6jebyu.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xoUmcOLkBRIy5oPdxwwjp"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/MyFinancePlus/_next/static/chunks/014nuucw_tsxx.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7-1Q85MY8QJUq41cwtAh4"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
